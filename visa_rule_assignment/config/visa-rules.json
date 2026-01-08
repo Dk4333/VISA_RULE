@@ -1,0 +1,22 @@
+[
+  {
+    "destinationCountry": "UAE",
+    "passportCountry": "INDIA",
+    "purpose": "TOURISM",
+    "maxStayDays": 30,
+    "visaRequired": true,
+    "visaType": "TOURIST",
+    "documents": ["PASSPORT", "BANK_STATEMENT"],
+    "processingDays": 5
+  },
+  {
+    "destinationCountry": "GERMANY",
+    "passportCountry": "INDIA",
+    "purpose": "STUDY",
+    "maxStayDays": 365,
+    "visaRequired": true,
+    "visaType": "STUDENT",
+    "documents": ["PASSPORT", "ADMISSION_LETTER"],
+    "processingDays": 30
+  }
+]
